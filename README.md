@@ -4,4 +4,4 @@ Domain:   Python Programming
 Duration:  10 june to 10 july
 
 PROJECT 2:
-Creatind A Simple Calculator By Using Python Programming
+Creating A Simple Calculator By Using Python Programming
